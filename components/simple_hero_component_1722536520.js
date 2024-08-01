@@ -27,7 +27,7 @@ Vue.component("simple_hero_component_1722536520", {
                     </div>
 
                     <div id="hello-world-button-container" class="mt-4">
-                        <button id="hello-world-button" class="px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600">Hello World</button>
+                        <button id="hello-world-button" class="px-4 py-2 bg-purple-500 text-white rounded-lg shadow-md hover:bg-purple-600 transition duration-300">Hello World</button>
                     </div>
                     
                     
