@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar for filtering transactions\", \"checked\": true}, {\"feature\": \"Real-time transaction notifications\", \"checked\": false}, {\"feature\": \"User login and authentication system\", \"checked\": false}, {\"feature\": \"Interactive transaction visualization charts\", \"checked\": true}, {\"feature\": \"Detailed transaction history page\", \"checked\": true}, {\"feature\": \"Responsive design for mobile and tablet viewing\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 85, \"time_taken\": \"0:00:03.935794\"}",
         "timestamp": "01082024182255",
         "message_id": "guest01082024182249"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a preferred style or theme for the navbar to ensure it aligns with the overall design of the app?\", \"option1\": \"Yes, I have a specific design in mind.\", \"option2\": \"No, I'm open to suggestions based on modern design trends.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the user's screen as they scroll, or does it remain static?\", \"option1\": \"Yes, make the navbar fixed.\", \"option2\": \"No, the navbar should remain static.\"}], \"input_token_count\": 265, \"output_token_count\": 125, \"time_taken\": \"0:00:05.629796\"}",
+        "timestamp": "01082024182256",
+        "message_id": "guest01082024182249"
     }
 ]
